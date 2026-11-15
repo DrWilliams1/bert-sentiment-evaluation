@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+scratch/
+artifacts/
+.cache/
+*.safetensors
+*.bin
+*.parquet
+bert_sentiment_*.zip

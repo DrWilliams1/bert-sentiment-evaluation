@@ -1,0 +1,23 @@
+{
+  ".gitignore": "110f27a499d4a856a60de93973e7dac63d533ce26def9972c0470e6edddc2e65",
+  "ATTRIBUTION.md": "7e0c3c9243bc642201748a4435037ef3537fa5d77f5295f7ee6e398e0b17573a",
+  "BERT_Sentiment_Evaluation.ipynb": "0c106f97787484ac3fed6ab745e6e9b342068b7e0c0dd3a328deefbf0b53543c",
+  "LICENSE": "26ee14771b129b2e78c30c69b10f2aec45ea11949f41d6f39103bfdebe4f85af",
+  "README.md": "c9590962fc74a779ea0f86e41232bc03a9645ac9df04fbf2e1885f9a371619e9",
+  "analysis/error_analysis.csv": "8a2793243a01e4e5d570ce271a2f98362c2ce4efacf75bde89b921545021c7ff",
+  "analysis/package_changes.json": "37efc73c2fa5130684546e8dde60d0cbec8afe570653efcfa19e5f35ae96ed29",
+  "analysis/verification.json": "363aa6acf9f3631839789d36c1c7c2fa86d0452008395d1565835f3d72aa0d31",
+  "requirements.txt": "3952b6f03486ab33e03aade59e167b76de04f17e3f7ddbdf0f23ae11fabdfd5e",
+  "results/20261115T224719Z-739463/data_record.json": "c693ecc14e220f1b1ebfffaf660132949a9c5dd476dcb4c566d9a1650d5a54c7",
+  "results/20261115T224719Z-739463/environment.json": "ac3c42b29fc62ab033444d8bc04e2effb103e61d6bd448822ae04fc70f456833",
+  "results/20261115T224719Z-739463/experiment_config.json": "5b8decf507a3d442e3a0bc3dc56e337e37928d6e0e7c0451d2febf07b5b6c05c",
+  "results/20261115T224719Z-739463/final_test_metrics.json": "9dadf1f05c91ce804bf9c8e7f78266827acd1c92df0344335131d0515297b627",
+  "results/20261115T224719Z-739463/full_finetune_error_review.csv": "1c55f6081f6996620b78e09876617854670efa1bacbd4a7cb1d2e179fe202301",
+  "results/20261115T224719Z-739463/full_finetune_validation_metrics.json": "775aa14fd8befa9e8dfedfe8e2ee2540c964ea50b6171c212845442dbbfa33b2",
+  "results/20261115T224719Z-739463/full_finetune_validation_predictions.npz": "5850f18ba0e2c131750063f3eda195042907375110ef8bf2caf0ff64b378c90b",
+  "results/20261115T224719Z-739463/head_only_validation_metrics.json": "31cbb443bcb3854f70d8bba6511a1ef9d7a270d6f5a8d51d4d776c0f59ff8ae4",
+  "results/20261115T224719Z-739463/head_only_validation_predictions.npz": "d990f024b63dbbed7ddf25e1a977115bd85ab6ec4fefcd184b1cd2ad521f4d6e",
+  "results/20261115T224719Z-739463/selection.json": "fce28cafc7e26253099d4b1c2323b54b5ff41091f3e4fda4b6f6a71da662e9fc",
+  "results/20261115T224719Z-739463/validation_comparison.json": "3c69f0c22f33482346abff5ef8525a3a6e45ffbf88f30991f4e07aa16fe879d2",
+  "scripts/verify_results.py": "5149f22152e392292318186323883f500a1b31df364485bbc012d517ec5e33bc"
+}

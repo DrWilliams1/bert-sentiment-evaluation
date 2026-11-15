@@ -1,0 +1,10 @@
+# Compatibility ranges from the recorded notebook; not a locked environment.
+# Retain a GPU-compatible PyTorch installation in Colab.
+torch
+transformers>=4.46,<6
+datasets>=3,<5
+accelerate>=1,<2
+huggingface-hub>=0.26,<2
+numpy>=1.26,<3
+pandas>=2.2,<4
+scikit-learn>=1.5,<2
