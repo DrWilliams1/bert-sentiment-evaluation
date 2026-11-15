@@ -1,0 +1,168 @@
+{
+  "code_cells_preserved": 11,
+  "code_source_unchanged": false,
+  "execution_counts_unchanged": true,
+  "added_explanatory_markdown_cells": 13,
+  "removed_output_displays": [
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 3,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 6,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 6,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 6,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 6,
+      "reason": "transient HTML progress display"
+    },
+    {
+      "cell": 6,
+      "reason": "transient HTML progress display"
+    },
+    {
+      "cell": 6,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 6,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 6,
+      "reason": "transient HTML progress display"
+    },
+    {
+      "cell": 6,
+      "reason": "transient HTML progress display"
+    },
+    {
+      "cell": 6,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 8,
+      "reason": "raw review-text display"
+    },
+    {
+      "cell": 9,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 9,
+      "reason": "transient HTML progress display"
+    },
+    {
+      "cell": 10,
+      "reason": "interactive widget/download display"
+    },
+    {
+      "cell": 10,
+      "reason": "interactive widget/download display"
+    }
+  ],
+  "json_output_matches": [
+    "environment.json",
+    "experiment_config.json",
+    "data_record.json",
+    "final_test_metrics.json"
+  ],
+  "training_performed_during_packaging": false,
+  "original_artifact_sha256": {
+    "data_record.json": "c693ecc14e220f1b1ebfffaf660132949a9c5dd476dcb4c566d9a1650d5a54c7",
+    "environment.json": "ac3c42b29fc62ab033444d8bc04e2effb103e61d6bd448822ae04fc70f456833",
+    "experiment_config.json": "5b8decf507a3d442e3a0bc3dc56e337e37928d6e0e7c0451d2febf07b5b6c05c",
+    "final_test_metrics.json": "903a8e67a8fb4b613527d55a7a5ad12ac21e881c43219bef90ab94bdb0b4f270",
+    "full_finetune_error_review.csv": "1c55f6081f6996620b78e09876617854670efa1bacbd4a7cb1d2e179fe202301",
+    "full_finetune_validation_metrics.json": "775aa14fd8befa9e8dfedfe8e2ee2540c964ea50b6171c212845442dbbfa33b2",
+    "full_finetune_validation_predictions.npz": "5850f18ba0e2c131750063f3eda195042907375110ef8bf2caf0ff64b378c90b",
+    "head_only_validation_metrics.json": "31cbb443bcb3854f70d8bba6511a1ef9d7a270d6f5a8d51d4d776c0f59ff8ae4",
+    "head_only_validation_predictions.npz": "d990f024b63dbbed7ddf25e1a977115bd85ab6ec4fefcd184b1cd2ad521f4d6e",
+    "selection.json": "fce28cafc7e26253099d4b1c2323b54b5ff41091f3e4fda4b6f6a71da662e9fc",
+    "validation_comparison.json": "3c69f0c22f33482346abff5ef8525a3a6e45ffbf88f30991f4e07aa16fe879d2"
+  },
+  "post_run_metadata_correction": {
+    "description": "Removed one unsupported provenance-only field from final-test result construction, saved display, and JSON. Speculative background text was removed from the public documentation.",
+    "numerical_values_changed": false,
+    "training_evaluation_or_metric_logic_changed": false,
+    "notebook_reexecuted_after_source_cleanup": false,
+    "unchanged_original_result_files": 10,
+    "modified_result_file": "final_test_metrics.json",
+    "original_inputs": "The uploaded notebook and results ZIP are retained separately from this public package."
+  },
+  "presentation_focus": "Experiment design, measured results, error analysis, and training trade-offs; tutorial attribution retained.",
+  "source_comments_updated": true,
+  "source_comments_change_execution": false
+}

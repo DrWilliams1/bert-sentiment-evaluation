@@ -1,0 +1,21 @@
+{
+  "status": "pass",
+  "run_id": "20261115T224719Z-739463",
+  "validation_regimes_recomputed_from_saved_logits": [
+    "head_only",
+    "full_finetune"
+  ],
+  "validation_examples_per_regime": 1066,
+  "validation_labels_and_order_match_between_regimes": true,
+  "full_finetune_error_rows_checked": 155,
+  "original_worksheet_observations_filled": 0,
+  "qualitative_examples_reviewed": 1,
+  "recorded_initial_classifier_weight_hashes_match": true,
+  "selection_matches_recorded_rule": true,
+  "selected_regime": "full_finetune",
+  "test_summary_arithmetic_verified": true,
+  "test_metrics_recomputed_from_saved_logits": false,
+  "test_recomputation_limitation": "Final test logits and per-example labels were not included in the export.",
+  "training_or_inference_performed": false,
+  "verification_scope": "Local numerical consistency checks, not independent experiment replication or independent annotation reliability."
+}

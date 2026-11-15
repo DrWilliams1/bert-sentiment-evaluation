@@ -1,0 +1,2 @@
+validation_row_id,actual_label,predicted_label,softmax_score,error_category,suggested_observation,interpretation_status,causal_claim
+748,0,1,0.9869834647971215,Mixed evaluative wording; indirect criticism,The review acknowledges careful production but criticizes the film as overly dutiful and mechanical. Positive-sounding wording may have competed with the overall negative judgment.,Qualitative interpretation of one displayed validation example; not an independently coded annotation.,Hypothesis only; no attribution experiment establishes the model's internal reason.
