@@ -1,0 +1,4 @@
+{
+  "rule": "highest_validation_macro_f1_then_fastest_training",
+  "selected_regime": "full_finetune"
+}

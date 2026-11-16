@@ -1,0 +1,14 @@
+{
+  "model_id": "google-bert/bert-base-cased",
+  "dataset_id": "cornell-movie-review-data/rotten_tomatoes",
+  "seed": 42,
+  "max_length": 256,
+  "epochs": 1,
+  "batch_size": 16,
+  "learning_rate": 2e-05,
+  "regimes": [
+    "head_only",
+    "full_finetune"
+  ],
+  "confidence_threshold": 0.9
+}

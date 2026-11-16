@@ -1,0 +1,22 @@
+{
+  "regime": "full_finetune",
+  "split": "test",
+  "n_examples": 1066,
+  "accuracy": 0.850844277673546,
+  "binary_f1_positive": 0.8526413345690455,
+  "macro_f1": 0.8508220917859473,
+  "confusion_matrix_rows_actual_columns_predicted": [
+    [
+      447,
+      86
+    ],
+    [
+      73,
+      460
+    ]
+  ],
+  "confidence_threshold": 0.9,
+  "confident_count": 708,
+  "confident_errors": 48,
+  "confident_error_rate": 0.06779661016949153
+}
